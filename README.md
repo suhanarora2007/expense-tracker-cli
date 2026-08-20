@@ -1,3 +1,5 @@
+
+https://roadmap.sh
 # Expense Tracker CLI
 
 A simple command-line interface application built in Python to track and manage personal expenses.
@@ -18,6 +20,6 @@ python expense_tracker.py summary
 # View summary for a specific month
 python expense_tracker.py summary --month 8
 ```
-[Project URL](https://roadmap.sh)
+
 
 
