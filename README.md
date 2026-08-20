@@ -1,5 +1,4 @@
 
-https://roadmap.sh
 # Expense Tracker CLI
 
 A simple command-line interface application built in Python to track and manage personal expenses.
